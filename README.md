@@ -23,34 +23,28 @@ I decided to collect all the resources I know and use about Digital Design-FPGA 
 ### Technical and University Courses Archieve
 
 **ENG:**
-- [VLSI Academy Hub](https://www.youtube.com/c/VLSIAcademyhub)
-- [Onur Mutlu Lectures](https://www.youtube.com/c/OnurMutluLectures)
-- [NAND to Tetris](https://www.coursera.org/learn/build-a-computer)
+
+- [Onur Mutlu Lectures](https://www.youtube.com/c/OnurMutluLectures) I think Mr. Onur Mutlu is one of the best example of how to share knowledge! He shares all the lessons he teaches and he adds something new to his lessons every single year! 
+- [NAND to Tetris](https://www.coursera.org/learn/build-a-computer) I learned a lot of things in this course especially the usage of block diagrams via 
 - [Digital Systems: From Logic Gates to Processors](https://www.coursera.org/learn/digital-systems)
-- [VLSI CAD Bölüm I: Mantık](https://www.coursera.org/learn/vlsi-cad-logic)
-- [VLSI CAD Bölüm II: Yerleşim](https://www.coursera.org/learn/vlsi-cad-layout)
 - [Fundamentals of Digital Design for VLSI Chip Design](https://www.coursera.org/learn/fundamentals-of-digital-design-for-vlsi-chip-design)
-- [VLSI Chip Design and Simulation with Electric VLSI EDA Tool](https://www.coursera.org/learn/vlsi-chip-design-and-simulation-with-electric-vlsi-eda-tool)
-- [Doulos](https://www.doulos.com/)
--  [Marco Winzker](https://www.youtube.com/@marcowinzker3682)
+- [Doulos](https://www.doulos.com/)In this website you can find free webinars and workshops. Doulos is a very high quality training company
+- [Marco Winzker](https://www.youtube.com/@marcowinzker3682)
 - [FOSSi Foundation](https://www.youtube.com/@FOSSiFoundation)
 - [nandland](https://www.youtube.com/@Nandland)
 - [FPGAs for Beginners](https://www.youtube.com/@FPGAsforBeginners)
-In this website you can find free webinars and workshops. Doulos is a very high quality training company
-
 
 **TR:**
-- [Oğuz Ergin](https://www.youtube.com/@oguz_ergin)
-- [Mehmet Burak Aykenar](https://www.youtube.com/@mehmetburakaykenar)
-- [Muhammed Kocaoğlu](https://www.youtube.com/@muhammedkocaoglu)
-- [Emin Fedar](https://www.youtube.com/@eminfedar)
-- [Koray Karakurt- Expaths Türkiye](https://www.youtube.com/@Expaths)
+- [Oğuz Ergin](https://www.youtube.com/@oguz_ergin) Verilog ve FPGA tasarım dersleri ekibi Kasırga ile çok güzel işler çıkarıyorlar. Onların Github repoları da incelenebilir. 
+- [Mehmet Burak Aykenar](https://www.youtube.com/@mehmetburakaykenar) Çok söze gerek yok. Linke tıkla ve istediğin her şeyi öğren! 
+- [Muhammed Kocaoğlu](https://www.youtube.com/@muhammedkocaoglu) SystemVerilog hakkında ders veren tek kişi :( 
+- [Emin Fedar](https://www.youtube.com/@eminfedar) 
+- [Koray Karakurt- Expaths Türkiye](https://www.youtube.com/@Expaths) Son zamanlarda sık sık videolarını izlediğim ve tüm bilgilerini, deneyimlerini aktarmaya çalışan çok güzel ders anlatan kişi
 ----------------------------------------------------------------------------------------
 ### RISC-V
 1.  [RISC-V Specifications](https://riscv.org/specifications/) 
 2.  [UC Berkeley CS61C Lecture PDF](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
 3.  [Open Source Verification Platform for RISC-V Processors](https://riscv.org/wp-content/uploads/2019/12/12.10-16.10b-Open-Source-Verification-Platform-for-RISC-V-Processors.pdf)
-
 
 
 ## Tools
@@ -67,7 +61,6 @@ In this website you can find free webinars and workshops. Doulos is a very high 
 - [Makerchip](https://www.makerchip.com/)
 - [Spike](https://chipyard.readthedocs.io/en/stable/Software/Spike.html)
 - [Edaplayground](https://www.edaplayground.com/home)
-
 
 
 ## Blogs and Websites
@@ -112,7 +105,7 @@ My suggestion is for the basic design examples you can go to NANDland and FPGA4S
 - [マルシーの魔法の雑記帳](https://marsee101.web.fc2.com/index.html)
 
 
----------------------------------------------------------------------------------
+
 
 ## Chip Reverse and Many more to learn!
 - [ZeptoBars](https://zeptobars.com/en/)
@@ -155,3 +148,7 @@ My suggestion is for the basic design examples you can go to NANDland and FPGA4S
 - [VLSI System Design](https://www.vlsisystemdesign.com/)
 - [VLSI Academy](http://www.vlsiacademy.org)
 - [Team VLSI](https://teamvlsi.com/)
+- [VLSI Academy Hub](https://www.youtube.com/c/VLSIAcademyhub)
+- [VLSI CAD Bölüm I: Mantık](https://www.coursera.org/learn/vlsi-cad-logic)
+- [VLSI CAD Bölüm II: Yerleşim](https://www.coursera.org/learn/vlsi-cad-layout)
+- [VLSI Chip Design and Simulation with Electric VLSI EDA Tool](https://www.coursera.org/learn/vlsi-chip-design-and-simulation-with-electric-vlsi-eda-tool)

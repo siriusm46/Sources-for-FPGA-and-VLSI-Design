@@ -67,10 +67,11 @@ I decided to collect all the resources I know and use about Digital Design-FPGA 
 
 **ENG:**
 In here you can find many Digital Design, PDFs and course notes. 
-My suggestion is for the basic design examples you can go to NANDland and FPGA4Student. 
+My suggestion is for the basic design examples you can go to NANDland and FPGA4Fun. 
 - [ETH Zurich Courses](https://safari.ethz.ch/courses/)
 - [01Signal](www.01signal.com)
 - [ZipCPU](https://zipcpu.com/tutorial/)
+- [FPGA4Fun](https://www.fpga4fun.com/)
 - [Adiuvo Engineering](https://www.adiuvoengineering.com/)
 - [Adam Taylor's Beautiful Projects](https://www.hackster.io/adam-taylor/projects)
 - [Black Mesa Labs](https://blackmesalabs.wordpress.com/) Kevin Hubbard

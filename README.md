@@ -80,6 +80,7 @@ My suggestion is for the basic design examples you can go to NANDland and FPGA4F
 - [very beauiful post <3](https://www.controlpaths.com/2023/05/20/simulation-of-dsp-algorithms-in-verilog/)
 - [Nandland](https://nandland.com/)
 - [FPGA4Student](https://www.fpga4student.com/)
+- [Parallel Programming for FPGAs](https://pp4fpgas.readthedocs.io/en/latest/index.html) FIR Filter/ CORDIC / DFT / FFT/ VITIS projects and code examples
 - [Bitlog](https://bitlog.it/) Oğuz Meteer
 - [Sunburst Design](https://www.sunburst-design.com/papers/)
 - [Chipmunk Logic](https://chipmunklogic.com)

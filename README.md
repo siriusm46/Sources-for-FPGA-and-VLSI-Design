@@ -119,6 +119,7 @@ My suggestion is for the basic design examples you can go to NANDland and FPGA4F
 - [Jimdo](https://cpumuseum.jimdofree.com/)
 - [CPU WORLD](https://www.cpu-world.com/forum/viewtopic.php?t=21226)
 - [CPUShack](https://www.cpushack.com/)
+- [Richi's Lab](https://www.richis-lab.de/) REcently found this gem! I believe it is one of the best reverse engineering website <3 
 
   
 

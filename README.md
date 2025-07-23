@@ -16,7 +16,7 @@ Whether you're just starting out or looking to deepen your understanding, this r
 
 ## How to Use This Repo
 
-- The detailed list of **resources and links** can be found in [Sources.md](sources.md).  
+- The detailed list of **resources and links** can be found in [Sources.md](Sources.md).  
 - Feel free to explore, learn, and contribute by suggesting new resources or improvements.
 
 ---
